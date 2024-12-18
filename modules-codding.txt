@@ -1,0 +1,18 @@
+sisregiii.saude.gov.br - ok
+sigma ma ok
+https://si-pni.saude.gov.br/#/login - ok
+https://portal.sisp.es.gov.br/sispes-frontend/xhtml/pesquisa.jsf -> ok
+
+http://intranet.cbm.rs.gov.br/ - dps codo
+
+intranet.pm.se.gov.br -> ok
+
+https://receita.pr.gov.br/login -> dps codo
+https://sgc.bm.rs.gov.br/login -> ok
+https://www.pcnet.mg.gov.br/ -> ok
+https://spi.sspds.ce.gov.br/cerebrum -> ok
+https://servicos.sds.pe.gov.br/portalsds/ -> dps code esse krlh
+https://siisp.ma.gov.br/SIISP/login -> ok
+https://portal.pm.es.gov.br -> provael fora do ar
+
+11/06/24

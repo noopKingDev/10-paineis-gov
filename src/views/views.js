@@ -7,7 +7,13 @@ export default async function MainMenu({
 
     console.clear()
 
-    console.log('script started')
+    console.log(`██████╗ ██╗   ██╗██████╗ ██╗   ██╗     ██████╗██╗  ██╗███████╗ ██████╗██╗  ██╗███████╗██████╗ 
+██╔══██╗██║   ██║██╔══██╗██║   ██║    ██╔════╝██║  ██║██╔════╝██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+██║  ██║██║   ██║██║  ██║██║   ██║    ██║     ███████║█████╗  ██║     █████╔╝ █████╗  ██████╔╝
+██║  ██║██║   ██║██║  ██║██║   ██║    ██║     ██╔══██║██╔══╝  ██║     ██╔═██╗ ██╔══╝  ██╔══██╗
+██████╔╝╚██████╔╝██████╔╝╚██████╔╝    ╚██████╗██║  ██║███████╗╚██████╗██║  ██╗███████╗██║  ██║
+╚═════╝  ╚═════╝ ╚═════╝  ╚═════╝      ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+                                                                                              `)
 
     const optionsView = configs
         .map(({code,name}) => `[${code}] - ${name}`)
@@ -16,6 +22,6 @@ export default async function MainMenu({
         console.log(optionsView);
         
 
-    const chooseOption =  prompt()('choose Option : ')
+    const chooseOption =  prompt()(' > ')
     return chooseOption
 }
